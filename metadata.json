@@ -1,0 +1,6 @@
+{
+  "name": "Acts 2:42 Network",
+  "description": "An inviting, relational redesign of the Acts 2:42 House Church website, focusing on warmth, community, sharing meals, and genuine human connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
